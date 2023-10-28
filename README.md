@@ -17,8 +17,10 @@ I could not fix my error from the previous step, but I attempted to move onto th
 
 ## 5. Errors
 I ran into man few errors while completing this assignment that did not allow me to complete the assignment. I was unsure of how fix the errors. 
-1. I could not open the flask section and kept receiving error codes of jinja2.exceptions.TemplateNotFound: base.html. I could not figure out what was causing this issue, as the code was taken from a previous assignment. i attached screenshots of the error code in the screenshots folder.
-2. As explained in section 4, I could not run the Alembic section properly. I kept receving ImportError: cannot import name 'Base' from 'gcp' (./gcp.py) error code and attached screenshtos of it in the screenshots folder.
+1. When connecting to Azure for the flask step, I did not change an option on Azure that created an error code. In Azure, I had to change require_secure_transport to OFF under Service Parameters.
+2. I could not open the flask section and kept receiving error codes of jinja2.exceptions.TemplateNotFound: base.html. I could not figure out what was causing this issue, as the code was taken from a previous assignment. i attached screenshots of the error code in the screenshots folder.
+3. As explained in section 4, I could not run the Alembic section properly. I kept receving ImportError: cannot import name 'Base' from 'gcp' (./gcp.py) error code and attached screenshtos of it in the screenshots folder.
+
 
 
 
